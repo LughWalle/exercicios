@@ -1,17 +1,17 @@
-function matrizTabuada(array) {
+function matrizTabuada2(array) {
     const matriz = []; // matriz
     for (let i = 0; i < array.length; i++) {
         matriz.push(`tabuada de ${array[i]}`); // identificador de  tabuada
-				const resultTabuada = []; // recebera tabuada
-				for (let n = 1; n <= 10; n++) {
-						resultTabuada.push(array[i] * n); // insere cada resultado da tabuada
-				}
+	const resultTabuada = []; // recebera tabuada
+	for (let n = 1; n <= 10; n++) {
+			resultTabuada.push(array[i] * n); // insere cada resultado da tabuada
+	}
         matriz.push(resultTabuada); // insere cada tabuada na matriz
     }
     return matriz;
 }
 
-console.log(matrizTabuada([2, 3, 7]);
+console.log(matrizTabuada2([2, 3, 7]);
 
 // responsabilidades separadas
 
