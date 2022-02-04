@@ -13,6 +13,7 @@ exercícios feitos com o pessoal do telegram!
 ### Desafio EXTRA:
 #### Crie um algoritmo de ordenação de numeros
  - escolha um tipo de ordenação
+   - [bubble-sort](https://www.youtube.com/watch?v=lyZQPjUT5B4)
    - [Insert-sort](https://youtu.be/ROalU379l3U)
    - [Quick-sort](https://youtu.be/ywWBy6J5gz8)
    - [Select-sort](https://youtu.be/Ns4TPTC8whw)
