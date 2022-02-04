@@ -13,9 +13,9 @@ exercícios feitos com o pessoal do telegram!
 ### Desafio EXTRA:
 #### Crie um algoritmo de ordenação de numeros
  - escolha um tipo de ordenação
-   - [https://youtu.be/ROalU379l3U](Insert-sort)
-   - [https://youtu.be/ywWBy6J5gz8](Quick-sort)
-   - [https://youtu.be/Ns4TPTC8whw](Select-sort)
-   - [https://youtu.be/XaqR3G_NVoo](Merge-sort)
-   - [https://youtu.be/CmPA7zE8mx0](Shell-sort)
+   - [Insert-sort](https://youtu.be/ROalU379l3U)
+   - [Quick-sort](https://youtu.be/ywWBy6J5gz8)
+   - [Select-sort](https://youtu.be/Ns4TPTC8whw)
+   - [Merge-sort](https://youtu.be/XaqR3G_NVoo)
+   - [Shell-sort](https://youtu.be/CmPA7zE8mx0)
  - Depois de assitir ao video escolhido transcreva o que entendeu em codigo javaScript
