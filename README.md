@@ -9,3 +9,13 @@ exercícios feitos com o pessoal do telegram!
  - Caso o número não possa ser dividido por 3 nem por 5, retorne a string "bug!";
 
  *Exemplo: caso o parâmetro seja [2, 15, 7, 9, 45], sua função deverá retornar ["bug!", "fizzBuzz", "bug!", "fizz", "fizzBuzz"].*
+
+### Desafio EXTRA:
+#### Crie um algoritmo de ordenação de numeros
+ - escolha um tipo de ordenação
+   - [https://youtu.be/ROalU379l3U](Insert-sort)
+   - [https://youtu.be/ywWBy6J5gz8](Quick-sort)
+   - [https://youtu.be/Ns4TPTC8whw](Select-sort)
+   - [https://youtu.be/XaqR3G_NVoo](Merge-sort)
+   - [https://youtu.be/CmPA7zE8mx0](Shell-sort)
+ - Depois de assitir ao video escolhido transcreva o que entendeu em codigo javaScript
