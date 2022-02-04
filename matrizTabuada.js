@@ -11,26 +11,26 @@ function matrizTabuada2(array) {
     return matriz;
 }
 
-console.log(matrizTabuada2([2, 3, 7]);
+console.log(matrizTabuada2([2, 3, 7]));
 
 // responsabilidades separadas
 
-function tabuada(n) {
-    const resultTabuada = []
-    for (let i = 1; i <= 10; i++) {
-        resultTabuada.push(n * i)
-    }
-		console.log(resultTabuada);
-    return resultTabuada;
-}
+// function tabuada(n) {
+//     const resultTabuada = []
+//     for (let i = 1; i <= 10; i++) {
+//         resultTabuada.push(n * i)
+//     }
+// 		console.log(resultTabuada);
+//     return resultTabuada;
+// }
 
-function matrizTabuada(array) {
-    const result = [];
-    for (let i = 0; i < array.length; i++) {
-        result.push(`tabuada de ${array[i]}`)
-        result.push(tabuada(array[i]));
-    }
-    return result;
-}
+// function matrizTabuada(array) {
+//     const result = [];
+//     for (let i = 0; i < array.length; i++) {
+//         result.push(`tabuada de ${array[i]}`)
+//         result.push(tabuada(array[i]));
+//     }
+//     return result;
+// }
 
-console.log(matrizTabuada([1, 2, 3]));
+// console.log(matrizTabuada([1, 2, 3]));
