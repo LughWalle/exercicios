@@ -14,13 +14,19 @@ Dividi as funções em 3 níveis
 > *Nível C*
 
 ### Nível B
-    São funções mais ***B***asicas sem complexibilidade e sem muita dificuldade logica.
+   São funções mais ***B***asicas sem complexibilidade e sem muita dificuldade logica.
 
 ### Nível L
-    São funções onde será necessario uma ***L***ogica mais aprimorada, mas sem grandes complexibilidades.
+   São funções onde será necessario uma ***L***ogica mais aprimorada, mas sem grandes complexibilidades.
 
 ### Nível C
-    São funções com ***C***omplexibilidade alta alem de logica um pouco mais complexa.
+   São funções com ***C***omplexibilidade alta alem de logica um pouco mais complexa.
+
+
+
+_____________________________
+
+
 
 ## Desafio:
 ### Crie uma função chamada fizzBuzz que receba uma array de números e retorne uma array da seguinte forma:
