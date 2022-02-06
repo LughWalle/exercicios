@@ -1,3 +1,4 @@
+// Nível L
 // Parece que algo aconteceu com essas strings. Você consegue descobrir como limpar o caos?
 // Escreva uma função que recebe dois parametros
 // O primeiro com o caracter % no meio da palavra
