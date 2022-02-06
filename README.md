@@ -1,5 +1,26 @@
-## exercicios
-exercícios feitos com o pessoal do telegram!
+# Turma - Pré-Trybe 
+## Desafios para treinos
+
+Exercícios feitos para pessoas que estão aprendendo agora!!
+Entre em nosso grupo no [telegram](https://t.me/+tMTrMn76W2FiMDdh) e no [Discord](https://discord.gg/eVWztcRE?event=939644290609602590)
+
+## Níveis dos desafios
+Dividi as funções em 3 níveis
+
+> *Nível B* 
+
+> *Nível L*
+
+> *Nível C*
+
+### Nível B
+    São funções mais ***B***asicas sem complexibilidade e sem muita dificuldade logica.
+
+### Nível L
+    São funções onde será necessario uma ***L***ogica mais aprimorada, mas sem grandes complexibilidades.
+
+### Nível C
+    São funções com ***C***omplexibilidade alta alem de logica um pouco mais complexa.
 
 ## Desafio:
 ### Crie uma função chamada fizzBuzz que receba uma array de números e retorne uma array da seguinte forma:
