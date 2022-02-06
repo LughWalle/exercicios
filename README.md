@@ -46,4 +46,4 @@ _____________________________
    - [Select-sort](https://youtu.be/Ns4TPTC8whw)
    - [Merge-sort](https://youtu.be/XaqR3G_NVoo)
    - [Shell-sort](https://youtu.be/CmPA7zE8mx0)
- - Depois de assitir ao video escolhido transcreva o que entendeu em codigo javaScript
+ - Depois de assistir ao video escolhido transcreva o que entendeu em codigo javaScript
