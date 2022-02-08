@@ -2,7 +2,7 @@
 ## Desafios para treinos
 
 Exercícios feitos para pessoas que estão aprendendo agora!!
-Entre em nosso grupo no [telegram](https://t.me/+tMTrMn76W2FiMDdh) e no [Discord](https://discord.gg/eVWztcRE?event=939644290609602590)
+Entre em nosso grupo no [Telegram](https://t.me/+tMTrMn76W2FiMDdh) e no [Discord](https://discord.gg/eVWztcRE?event=939644290609602590)
 
 ## Níveis dos desafios
 Dividi as funções em 3 níveis
